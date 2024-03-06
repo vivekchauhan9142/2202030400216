@@ -1,0 +1,1864 @@
+<div class="div">
+  <div class="div-2">
+    <div class="div-3">
+      <div class="div-4">
+        <div class="div-5">Home</div>
+        <div class="div-6">/</div>
+        <img
+          loading="lazy"
+          srcset="..."
+          class="img"
+        />
+        <div class="div-7">/</div>
+        <div class="div-8">Unisex Home Furnishing</div>
+        <div class="div-9">/</div>
+        <div class="div-10">Curtains and Sheers</div>
+        <div class="div-11">/</div>
+        <div class="div-12">Story@home Curtains and Sheers</div>
+        <div class="div-13">More by Story@home</div>
+      </div>
+      <div class="div-14">
+        <img
+          loading="lazy"
+          srcset="..."
+          class="img-2"
+        />
+        <div class="div-15">Search for products, brands and more</div>
+      </div>
+      <div class="div-16">
+        <div class="div-17">
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-3"
+          />
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-4"
+          />
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-5"
+          />
+        </div>
+        <div class="div-18">
+          <div class="div-19">Profile</div>
+          <div class="div-20">Wishlist</div>
+          <div class="div-21">Bag</div>
+        </div>
+      </div>
+    </div>
+    <div class="div-22">
+      <div class="div-23">
+        <div class="div-24">
+          <div class="column">
+            <div class="div-25">
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-6"
+              />
+            </div>
+          </div>
+          <div class="column-2">
+            <div class="div-26">
+              <div class="div-27">Story@home</div>
+              <div class="div-28">
+                <div class="div-29">₹399</div>
+                <div class="div-30">
+                  MRP
+                  <span style="text-decoration: line-through">₹1999</span>
+                </div>
+                <div class="div-31">(80% OFF)</div>
+              </div>
+              <div class="div-32">inclusive of all taxes</div>
+              <div class="div-33">SELECT SIZE</div>
+              <div class="div-34">
+                <div class="div-35">
+                  <div class="div-36">Window</div>
+                  <div class="div-37">Rs. 485</div>
+                </div>
+                <div class="div-38">
+                  <div class="div-39">Door</div>
+                  <div class="div-40">Rs. 399</div>
+                </div>
+              </div>
+              <div class="div-41">
+                <div class="div-42">100% Original Products</div>
+                <img
+                  loading="lazy"
+                  srcset="..."
+                  class="img-7"
+                />
+              </div>
+              <div class="div-43">Pay on delivery might be available</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="div-44">
+        <div class="div-45">
+          <div class="column">
+            <div class="div-46">
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-8"
+              />
+            </div>
+          </div>
+          <div class="column-3">
+            <div class="div-47">
+              <div class="div-48">
+                <img
+                  loading="lazy"
+                  srcset="..."
+                  class="img-9"
+                />
+                <div class="div-49">Easy 14 days returns and exchanges</div>
+                <div class="div-50">Try & Buy might be available</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="div-51">
+      <div class="div-52">
+        Set of 2 Pink 200GSM Sheer Semi Transparent Door Curtains
+      </div>
+      <div class="div-53">
+        <div class="div-54">
+          <div class="div-55">4.3</div>
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-10"
+          />
+          <div class="div-56">|</div>
+          <div class="div-57">29 Ratings</div>
+        </div>
+      </div>
+      <div class="div-58">
+        <div class="div-59">Long Door</div>
+        <div class="div-60">Rs. 549</div>
+      </div>
+      <div class="div-61">
+        <div class="div-62">
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-11"
+          />
+          <div class="div-63">ADD TO BAG</div>
+          <div class="div-64">
+            <div class="div-65">
+              <img
+                loading="lazy"
+                srcset="..."
+                class="img-12"
+              />
+              <div class="div-66">WISHLIST</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="div-67">
+        <div class="div-68">
+          <div class="div-69">Delivery Options</div>
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-13"
+          />
+        </div>
+        <div class="div-70">
+          <div class="div-71">Enter pincode</div>
+          <div class="div-72">Check</div>
+        </div>
+        <div class="div-73">
+          Please enter PIN code to check delivery time & Pay on Delivery
+          Availability
+        </div>
+      </div>
+      <div class="div-74">
+        <div class="div-75">
+          <div class="div-76">BEST OFFERS</div>
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-14"
+          />
+        </div>
+        <div class="div-77">
+          Best Price:
+          <span style="color: rgba(255, 144, 90, 1)">Rs. 285</span>
+        </div>
+        <div class="div-78">
+          <div class="div-79">
+            Applicable on: Orders above Rs. 1049 (only on first purchase)
+          </div>
+          <div class="div-80">
+            Coupon code:
+            <span style="font-weight: 700">MYNTRA300</span>
+          </div>
+          <div class="div-81">
+            Coupon Discount: Rs. 114 off (check cart for final savings)
+          </div>
+        </div>
+        <div class="div-82">View Eligible Products</div>
+        <div class="div-83">
+          10% Instant Discount on ICICI Bank Credit and Debit Cards
+        </div>
+        <div class="div-84">Min Spend ₹3,500; Max Discount ₹1,500.</div>
+        <div class="div-85">Terms & Condition</div>
+        <div class="div-86">
+          10% Instant Discount on Citi Credit and Debit Cards
+        </div>
+        <div class="div-87">Min Spend ₹3,500; Max Discount ₹1,000.</div>
+        <div class="div-88">Terms & Condition</div>
+        <div class="div-89">Flat ₹25 Cashback on CRED UPI transactions.</div>
+        <div class="div-90">
+          Min Spend ₹2,000. Available only on Android Devices.
+        </div>
+        <div class="div-91">Terms & Condition</div>
+        <div class="div-92">
+          7.5% Instant Discount + 5% Extra Discount on Myntra Kotak Credit Card.
+        </div>
+        <div class="div-93">Max Discount Up to ₹750 on every spends.</div>
+        <div class="div-94">Terms & Condition</div>
+        <div class="div-95">EMI option available</div>
+        <div class="div-96">EMI starting from Rs.19/month</div>
+        <div class="div-97">View Plan</div>
+      </div>
+    </div>
+    <div class="div-98">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-15"
+      />
+    </div>
+    <div class="div-99">
+      <div class="div-100">
+        <div class="div-101">
+          <div class="div-102">Product Details</div>
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-16"
+          />
+        </div>
+        <div class="div-103">
+          <div class="div-104">
+            <div class="column">
+              <div class="div-105">
+                <div class="div-106">
+                  Set content: Single Door curtains
+                  <br />
+                  Colour: Pink
+                  <br />
+                  Pattern: Striped Door
+                  <br />
+                  Light blocking: Sheer
+                  <br />
+                  Fitting: Eyelet
+                  <br />
+                  Lining: Yes
+                </div>
+                <div class="div-107">Size & Fit</div>
+                <div class="div-108">
+                  116cm X 215cm (WXL) or 1.16m X 2.15m (WXL)
+                </div>
+                <div class="div-109">Material & Care</div>
+                <div class="div-110">
+                  Polyester
+                  <br />
+                  Machine-wash
+                </div>
+                <div class="div-111">Specifications</div>
+                <div class="div-112">
+                  <div class="div-113">Fabric</div>
+                  <div class="div-114">Polyester</div>
+                </div>
+              </div>
+            </div>
+            <div class="column-4">
+              <div class="div-115">
+                <div class="div-116">Fitting</div>
+                <div class="div-117">Eyelet</div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="div-118">
+          <div class="div-119">
+            <div class="column">
+              <div class="div-120">
+                <div class="div-121">
+                  <div class="div-122">Length</div>
+                  <div class="div-123">Door</div>
+                </div>
+                <div class="div-124">
+                  <div class="div-125">Lining</div>
+                  <div class="div-126">Yes</div>
+                </div>
+                <div class="div-127">
+                  <div class="div-128">Print or Pattern Type</div>
+                  <div class="div-129">Striped</div>
+                </div>
+                <div class="div-130">See More</div>
+              </div>
+            </div>
+            <div class="column-5">
+              <div class="div-131">
+                <div class="div-132">
+                  <div class="div-133">Light Blocking</div>
+                  <div class="div-134">Sheer</div>
+                </div>
+                <div class="div-135">
+                  <div class="div-136">Multipack Set</div>
+                  <div class="div-137">Single</div>
+                </div>
+                <div class="div-138">
+                  <div class="div-139">Sustainable</div>
+                  <div class="div-140">Regular</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="div-141">
+        Product Code:
+        <span style="font-weight: 700">9970601</span>
+      </div>
+      <div class="div-142">
+        Seller:
+        <span style="font-weight: 700; color: rgba(255, 62, 108, 1)">
+          Indiflashmart
+        </span>
+      </div>
+      <div class="div-143">View Supplier Information</div>
+    </div>
+  </div>
+</div>
+<style>
+  .div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1px 0;
+  }
+  .div-2 {
+    background-color: #fff;
+    display: flex;
+    width: 100%;
+    padding-bottom: 23px;
+    flex-direction: column;
+  }
+  @media (max-width: 991px) {
+    .div-2 {
+      max-width: 100%;
+    }
+  }
+  .div-3 {
+    justify-content: space-between;
+    align-items: start;
+    box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.05);
+    background-color: #fff;
+    z-index: 10;
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    padding: 20px 59px 20px 28px;
+  }
+  @media (max-width: 991px) {
+    .div-3 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      padding: 0 20px;
+    }
+  }
+  .div-4 {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 14px;
+    color: #282c3f;
+    font-weight: 400;
+  }
+  @media (max-width: 991px) {
+    .div-4 {
+      max-width: 100%;
+      flex-wrap: wrap;
+    }
+  }
+  .div-5 {
+    font-family: Assistant, sans-serif;
+    text-transform: capitalize;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-6 {
+    font-family: Assistant, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .img {
+    aspect-ratio: 2.78;
+    object-fit: auto;
+    object-position: center;
+    width: 99px;
+    align-self: stretch;
+  }
+  .div-7 {
+    font-family: Assistant, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-8 {
+    font-family: Assistant, sans-serif;
+    text-transform: capitalize;
+    align-self: stretch;
+    flex-grow: 1;
+    flex-basis: auto;
+    margin: auto 0;
+  }
+  .div-9 {
+    font-family: Assistant, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-10 {
+    font-family: Assistant, sans-serif;
+    text-transform: capitalize;
+    align-self: stretch;
+    flex-grow: 1;
+    flex-basis: auto;
+    margin: auto 0;
+  }
+  .div-11 {
+    font-family: Assistant, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-12 {
+    font-family: Assistant, sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    align-self: stretch;
+    flex-grow: 1;
+    flex-basis: auto;
+    margin: auto 0;
+  }
+  .div-13 {
+    font-family: Assistant, sans-serif;
+    font-weight: 700;
+    text-transform: capitalize;
+    align-self: stretch;
+    flex-grow: 1;
+    white-space: nowrap;
+    margin: auto 0;
+  }
+  @media (max-width: 991px) {
+    .div-13 {
+      white-space: initial;
+    }
+  }
+  .div-14 {
+    align-self: stretch;
+    display: flex;
+    justify-content: space-between;
+    gap: 0px;
+    font-size: 14px;
+    color: #757575;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-14 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      white-space: initial;
+    }
+  }
+  .img-2 {
+    aspect-ratio: 1.02;
+    object-fit: auto;
+    object-position: center;
+    width: 41px;
+    border-top: 1px solid #f5f5f6;
+    border-bottom: 1px solid #f5f5f6;
+    border-left: 1px solid #f5f5f6;
+  }
+  .div-15 {
+    font-family: Assistant, sans-serif;
+    justify-content: center;
+    align-items: start;
+    border-radius: 0px 4px 4px 0px;
+    border-top: 1px solid #f5f5f6;
+    border-right: 1px solid #f5f5f6;
+    border-bottom: 1px solid #f5f5f6;
+    background-color: #f5f5f6;
+    flex-grow: 1;
+    padding: 14px 60px 14px 10px;
+  }
+  @media (max-width: 991px) {
+    .div-15 {
+      white-space: initial;
+      max-width: 100%;
+      padding-right: 20px;
+    }
+  }
+  .div-16 {
+    display: flex;
+    flex-basis: 0%;
+    flex-direction: column;
+  }
+  .div-17 {
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 0 2px;
+  }
+  .img-3 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 24px;
+    align-self: stretch;
+  }
+  .img-4 {
+    aspect-ratio: 0.78;
+    object-fit: auto;
+    object-position: center;
+    width: 17px;
+  }
+  .img-5 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 22px;
+  }
+  .div-18 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    font-size: 12px;
+    color: #000;
+    font-weight: 700;
+    white-space: nowrap;
+    line-height: 50%;
+  }
+  @media (max-width: 991px) {
+    .div-18 {
+      white-space: initial;
+    }
+  }
+  .div-19 {
+    font-family: Assistant, sans-serif;
+  }
+  .div-20 {
+    font-family: Assistant, sans-serif;
+  }
+  .div-21 {
+    font-family: Assistant, sans-serif;
+  }
+  .div-22 {
+    display: flex;
+    width: 1188px;
+    max-width: 100%;
+    flex-direction: column;
+    margin: -8px 0 0 28px;
+  }
+  .div-23 {
+  }
+  @media (max-width: 991px) {
+    .div-23 {
+      max-width: 100%;
+    }
+  }
+  .div-24 {
+    gap: 20px;
+    display: flex;
+  }
+  @media (max-width: 991px) {
+    .div-24 {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0px;
+    }
+  }
+  .column {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 50%;
+    margin-left: 0px;
+  }
+  @media (max-width: 991px) {
+    .column {
+      width: 100%;
+    }
+  }
+  .div-25 {
+    border: 1px solid #f5f5f6;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    padding: 1px 2px;
+  }
+  @media (max-width: 991px) {
+    .div-25 {
+      max-width: 100%;
+    }
+  }
+  .img-6 {
+    aspect-ratio: 1.18;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+  }
+  @media (max-width: 991px) {
+    .img-6 {
+      max-width: 100%;
+    }
+  }
+  .column-2 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 50%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-2 {
+      width: 100%;
+    }
+  }
+  .div-26 {
+    border: 1px solid #f5f5f6;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    align-items: end;
+    color: #282c3f;
+    width: 100%;
+    padding: 2px 0 2px 80px;
+  }
+  @media (max-width: 991px) {
+    .div-26 {
+      max-width: 100%;
+    }
+  }
+  .div-27 {
+    font: 700 24px/100% Assistant, sans-serif;
+  }
+  .div-28 {
+    display: flex;
+    margin-top: 103px;
+    gap: 16px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  @media (max-width: 991px) {
+    .div-28 {
+      margin-top: 40px;
+    }
+  }
+  .div-29 {
+    flex-grow: 1;
+    font: 24px/100% Assistant, sans-serif;
+  }
+  .div-30 {
+    font-family: Assistant, sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration-line: strikethrough;
+    margin: auto 0;
+  }
+  .div-31 {
+    color: #ff905a;
+    font-family: Assistant, sans-serif;
+    letter-spacing: 0.5px;
+    flex-grow: 1;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-31 {
+      white-space: initial;
+    }
+  }
+  .div-32 {
+    color: #03a685;
+    margin-top: 16px;
+    font: 700 14px Assistant, sans-serif;
+  }
+  .div-33 {
+    color: #000;
+    margin-top: 37px;
+    font: 700 16px/100% Assistant, sans-serif;
+  }
+  .div-34 {
+    display: flex;
+    margin-top: 22px;
+    gap: 10px;
+    text-align: center;
+  }
+  .div-35 {
+    justify-content: center;
+    border-radius: 50px;
+    border: 1px solid #bfc0c6;
+    background-color: #fff;
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 0%;
+    flex-direction: column;
+    padding: 9px 30px;
+  }
+  @media (max-width: 991px) {
+    .div-35 {
+      padding: 0 20px;
+    }
+  }
+  .div-36 {
+    font: 700 14px Assistant, sans-serif;
+  }
+  .div-37 {
+    text-transform: capitalize;
+    margin-top: 12px;
+    font: 400 12px Assistant, sans-serif;
+  }
+  .div-38 {
+    justify-content: center;
+    border-radius: 50px;
+    border: 1px solid #bfc0c6;
+    background-color: #fff;
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 0%;
+    flex-direction: column;
+    white-space: nowrap;
+    padding: 9px 33px;
+  }
+  @media (max-width: 991px) {
+    .div-38 {
+      white-space: initial;
+      padding: 0 20px;
+    }
+  }
+  .div-39 {
+    font: 700 14px Assistant, sans-serif;
+  }
+  .div-40 {
+    text-transform: capitalize;
+    margin-top: 12px;
+    font: 400 12px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-40 {
+      white-space: initial;
+    }
+  }
+  .div-41 {
+    display: flex;
+    margin-top: 257px;
+    padding-right: 11px;
+    gap: 14px;
+    font-size: 16px;
+    font-weight: 400;
+  }
+  @media (max-width: 991px) {
+    .div-41 {
+      margin-top: 40px;
+    }
+  }
+  .div-42 {
+    font-family: Assistant, sans-serif;
+    align-self: end;
+    margin-top: 22px;
+    flex-grow: 1;
+    flex-basis: auto;
+  }
+  .img-7 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 42px;
+  }
+  .div-43 {
+    z-index: 10;
+    margin-top: 11px;
+    font: 400 16px Assistant, sans-serif;
+  }
+  .div-44 {
+    margin-top: 10px;
+  }
+  @media (max-width: 991px) {
+    .div-44 {
+      max-width: 100%;
+    }
+  }
+  .div-45 {
+    gap: 20px;
+    display: flex;
+  }
+  @media (max-width: 991px) {
+    .div-45 {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0px;
+    }
+  }
+  .div-46 {
+    border: 1px solid #f5f5f6;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    padding: 1px 2px;
+  }
+  @media (max-width: 991px) {
+    .div-46 {
+      max-width: 100%;
+    }
+  }
+  .img-8 {
+    aspect-ratio: 1.18;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+  }
+  @media (max-width: 991px) {
+    .img-8 {
+      max-width: 100%;
+    }
+  }
+  .column-3 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 50%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-3 {
+      width: 100%;
+    }
+  }
+  .div-47 {
+    border: 1px solid #f5f5f6;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 16px;
+    color: #282c3f;
+    font-weight: 400;
+    width: 100%;
+    padding: 1px;
+  }
+  @media (max-width: 991px) {
+    .div-47 {
+      max-width: 100%;
+    }
+  }
+  .div-48 {
+    disply: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    min-height: 612px;
+    align-items: end;
+    padding: 10px 0 50px 80px;
+  }
+  @media (max-width: 991px) {
+    .div-48 {
+      max-width: 100%;
+      padding-left: 20px;
+    }
+  }
+  .img-9 {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .div-49 {
+    position: relative;
+    font-family: Assistant, sans-serif;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-49 {
+      white-space: initial;
+    }
+  }
+  .div-50 {
+    position: relative;
+    font-family: Assistant, sans-serif;
+    margin: 16px 0 395px;
+  }
+  @media (max-width: 991px) {
+    .div-50 {
+      margin-bottom: 40px;
+    }
+  }
+  .div-51 {
+    align-self: end;
+    z-index: 10;
+    display: flex;
+    width: 902px;
+    max-width: 100%;
+    flex-direction: column;
+    margin: -1204px 28px 0 0;
+  }
+  @media (max-width: 991px) {
+    .div-51 {
+      margin: -200px 10px 0 0;
+    }
+  }
+  .div-52 {
+    color: #535665;
+    font: 400 20px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-52 {
+      max-width: 100%;
+    }
+  }
+  .div-53 {
+    align-items: start;
+    border-bottom: 1px solid #d4d5d9;
+    display: flex;
+    margin-top: 16px;
+    flex-direction: column;
+    font-size: 16px;
+    font-weight: 700;
+    white-space: nowrap;
+    padding: 0 60px 13px 0;
+  }
+  @media (max-width: 991px) {
+    .div-53 {
+      max-width: 100%;
+      padding-right: 20px;
+      white-space: initial;
+    }
+  }
+  .div-54 {
+    border-radius: 2px;
+    border: 1px solid #eaeaec;
+    display: flex;
+    gap: 4px;
+    padding: 6px 9px;
+  }
+  @media (max-width: 991px) {
+    .div-54 {
+      white-space: initial;
+    }
+  }
+  .div-55 {
+    color: #282c3f;
+    font-family: Assistant, sans-serif;
+    margin: auto 0;
+  }
+  .img-10 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 15px;
+    align-self: start;
+  }
+  .div-56 {
+    color: #d4d5d9;
+    font-family: Assistant, sans-serif;
+  }
+  .div-57 {
+    color: #535766;
+    font-family: Assistant, sans-serif;
+    font-weight: 400;
+    flex-grow: 1;
+  }
+  @media (max-width: 991px) {
+    .div-57 {
+      white-space: initial;
+    }
+  }
+  .div-58 {
+    justify-content: center;
+    border-radius: 50px;
+    border: 1px solid #bfc0c6;
+    background-color: #fff;
+    align-self: start;
+    display: flex;
+    flex-direction: column;
+    color: #282c3f;
+    white-space: nowrap;
+    text-align: center;
+    margin: 135px 0 0 180px;
+    padding: 9px 20px;
+  }
+  @media (max-width: 991px) {
+    .div-58 {
+      white-space: initial;
+      margin: 40px 0 0 10px;
+    }
+  }
+  .div-59 {
+    font: 700 14px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-59 {
+      white-space: initial;
+    }
+  }
+  .div-60 {
+    text-transform: capitalize;
+    margin-top: 10px;
+    font: 400 12px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-60 {
+      white-space: initial;
+    }
+  }
+  .div-61 {
+    justify-content: center;
+    align-items: end;
+    border-radius: 4px;
+    border: 1px solid #ff3e6c;
+    background-color: #ff3e6c;
+    display: flex;
+    margin-top: 34px;
+    width: 573px;
+    max-width: 100%;
+    padding-left: 60px;
+    flex-direction: column;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+  }
+  @media (max-width: 991px) {
+    .div-61 {
+      padding-left: 20px;
+    }
+  }
+  .div-62 {
+    display: flex;
+    align-items: center;
+    gap: 0px;
+  }
+  @media (max-width: 991px) {
+    .div-62 {
+      max-width: 100%;
+      flex-wrap: wrap;
+    }
+  }
+  .img-11 {
+    aspect-ratio: 1.05;
+    object-fit: auto;
+    object-position: center;
+    width: 21px;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-63 {
+    color: #fff;
+    font-family: Assistant, sans-serif;
+    align-self: stretch;
+    margin: auto 0;
+  }
+  .div-64 {
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    border: 1px solid #d4d5d9;
+    background-color: #fff;
+    align-self: stretch;
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 0%;
+    color: #282c3f;
+    white-space: nowrap;
+    letter-spacing: 0.4px;
+    padding: 16px 60px;
+  }
+  @media (max-width: 991px) {
+    .div-64 {
+      max-width: 100%;
+      white-space: initial;
+      padding: 0 20px;
+    }
+  }
+  .div-65 {
+    display: flex;
+    gap: 8px;
+  }
+  @media (max-width: 991px) {
+    .div-65 {
+      white-space: initial;
+    }
+  }
+  .img-12 {
+    aspect-ratio: 0.78;
+    object-fit: auto;
+    object-position: center;
+    width: 17px;
+  }
+  .div-66 {
+    font-family: Assistant, sans-serif;
+    align-self: start;
+    margin-top: 8px;
+    flex-grow: 1;
+  }
+  .div-67 {
+    background-color: #fff;
+    display: flex;
+    margin-top: 54px;
+    flex-direction: column;
+    align-items: start;
+    padding: 1px 0;
+  }
+  @media (max-width: 991px) {
+    .div-67 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-68 {
+    display: flex;
+    gap: 9px;
+    font-size: 16px;
+    color: #282c3f;
+    font-weight: 700;
+    white-space: nowrap;
+    text-transform: uppercase;
+  }
+  @media (max-width: 991px) {
+    .div-68 {
+      white-space: initial;
+    }
+  }
+  .div-69 {
+    font-family: Assistant, sans-serif;
+    flex-grow: 1;
+    margin: auto 0;
+  }
+  @media (max-width: 991px) {
+    .div-69 {
+      white-space: initial;
+    }
+  }
+  .img-13 {
+    aspect-ratio: 1.04;
+    object-fit: auto;
+    object-position: center;
+    width: 23px;
+  }
+  .div-70 {
+    justify-content: space-between;
+    border-radius: 5px;
+    border: 1px solid #d4d5d9;
+    background-color: #fff;
+    display: flex;
+    margin-top: 16px;
+    width: 394px;
+    max-width: 100%;
+    gap: 20px;
+    padding: 15px 17px;
+  }
+  .div-71 {
+    color: #757575;
+    font: 400 16px Assistant, sans-serif;
+  }
+  .div-72 {
+    color: #ff3e6c;
+    text-align: center;
+    text-transform: capitalize;
+    flex-grow: 1;
+    flex-basis: auto;
+    font: 700 14px Assistant, sans-serif;
+  }
+  .div-73 {
+    color: #282c3f;
+    align-self: stretch;
+    margin-top: 12px;
+    font: 400 13px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-73 {
+      max-width: 100%;
+    }
+  }
+  .div-74 {
+    border-bottom: 1px solid #d4d5d9;
+    display: flex;
+    margin-top: 184px;
+    padding-bottom: 42px;
+    flex-direction: column;
+    font-size: 14px;
+    color: #282c3f;
+    font-weight: 700;
+  }
+  @media (max-width: 991px) {
+    .div-74 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-75 {
+    align-self: start;
+    display: flex;
+    gap: 10px;
+    font-size: 16px;
+    white-space: nowrap;
+    text-transform: uppercase;
+    line-height: 100%;
+  }
+  @media (max-width: 991px) {
+    .div-75 {
+      white-space: initial;
+    }
+  }
+  .div-76 {
+    font-family: Assistant, sans-serif;
+    flex-grow: 1;
+    margin: auto 0;
+  }
+  @media (max-width: 991px) {
+    .div-76 {
+      white-space: initial;
+    }
+  }
+  .img-14 {
+    aspect-ratio: 0.82;
+    object-fit: auto;
+    object-position: center;
+    width: 18px;
+  }
+  .div-77 {
+    color: #ff905a;
+    margin-top: 21px;
+    font: 16px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-77 {
+      max-width: 100%;
+    }
+  }
+  .div-78 {
+    align-self: start;
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 17px 0 0 14px;
+  }
+  @media (max-width: 991px) {
+    .div-78 {
+      margin-left: 10px;
+    }
+  }
+  .div-79 {
+    font-family: Assistant, sans-serif;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-79 {
+      white-space: initial;
+    }
+  }
+  .div-80 {
+    font-family: Assistant, sans-serif;
+    margin-top: 13px;
+  }
+  .div-81 {
+    font-family: Assistant, sans-serif;
+    margin-top: 12px;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-81 {
+      white-space: initial;
+    }
+  }
+  .div-82 {
+    color: #ff3f6c;
+    font-family: Assistant, sans-serif;
+    margin-top: 15px;
+  }
+  @media (max-width: 991px) {
+    .div-82 {
+      max-width: 100%;
+    }
+  }
+  .div-83 {
+    margin-top: 23px;
+    font: 16px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-83 {
+      max-width: 100%;
+    }
+  }
+  .div-84 {
+    font-family: Assistant, sans-serif;
+    font-weight: 400;
+    align-self: start;
+    white-space: nowrap;
+    margin: 17px 0 0 14px;
+  }
+  @media (max-width: 991px) {
+    .div-84 {
+      margin-left: 10px;
+      white-space: initial;
+    }
+  }
+  .div-85 {
+    color: #ff3f6c;
+    font-family: Assistant, sans-serif;
+    margin-top: 15px;
+  }
+  @media (max-width: 991px) {
+    .div-85 {
+      max-width: 100%;
+    }
+  }
+  .div-86 {
+    margin-top: 26px;
+    font: 16px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-86 {
+      max-width: 100%;
+    }
+  }
+  .div-87 {
+    font-family: Assistant, sans-serif;
+    font-weight: 400;
+    align-self: start;
+    white-space: nowrap;
+    margin: 17px 0 0 14px;
+  }
+  @media (max-width: 991px) {
+    .div-87 {
+      margin-left: 10px;
+      white-space: initial;
+    }
+  }
+  .div-88 {
+    color: #ff3f6c;
+    font-family: Assistant, sans-serif;
+    margin-top: 15px;
+  }
+  @media (max-width: 991px) {
+    .div-88 {
+      max-width: 100%;
+    }
+  }
+  .div-89 {
+    margin-top: 26px;
+    font: 16px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-89 {
+      max-width: 100%;
+    }
+  }
+  .div-90 {
+    font-family: Assistant, sans-serif;
+    font-weight: 400;
+    align-self: start;
+    white-space: nowrap;
+    margin: 17px 0 0 14px;
+  }
+  @media (max-width: 991px) {
+    .div-90 {
+      margin-left: 10px;
+      white-space: initial;
+    }
+  }
+  .div-91 {
+    color: #ff3f6c;
+    font-family: Assistant, sans-serif;
+    margin-top: 15px;
+  }
+  @media (max-width: 991px) {
+    .div-91 {
+      max-width: 100%;
+    }
+  }
+  .div-92 {
+    margin-top: 26px;
+    font: 16px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-92 {
+      max-width: 100%;
+    }
+  }
+  .div-93 {
+    font-family: Assistant, sans-serif;
+    font-weight: 400;
+    align-self: start;
+    white-space: nowrap;
+    margin: 14px 0 0 14px;
+  }
+  @media (max-width: 991px) {
+    .div-93 {
+      margin-left: 10px;
+      white-space: initial;
+    }
+  }
+  .div-94 {
+    color: #ff3f6c;
+    font-family: Assistant, sans-serif;
+    margin-top: 15px;
+  }
+  @media (max-width: 991px) {
+    .div-94 {
+      max-width: 100%;
+    }
+  }
+  .div-95 {
+    margin-top: 26px;
+    font: 16px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-95 {
+      max-width: 100%;
+    }
+  }
+  .div-96 {
+    font-family: Assistant, sans-serif;
+    font-weight: 400;
+    align-self: start;
+    white-space: nowrap;
+    margin: 14px 0 0 14px;
+  }
+  @media (max-width: 991px) {
+    .div-96 {
+      margin-left: 10px;
+      white-space: initial;
+    }
+  }
+  .div-97 {
+    color: #ff3f6c;
+    font-family: Assistant, sans-serif;
+    margin-top: 15px;
+  }
+  @media (max-width: 991px) {
+    .div-97 {
+      max-width: 100%;
+    }
+  }
+  .div-98 {
+    border: 1px solid #f5f5f6;
+    display: flex;
+    width: 719px;
+    max-width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    margin: -148px 0 0 28px;
+    padding: 1px 2px;
+  }
+  .img-15 {
+    aspect-ratio: 1.16;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+  }
+  @media (max-width: 991px) {
+    .img-15 {
+      max-width: 100%;
+    }
+  }
+  .div-99 {
+    align-self: end;
+    z-index: 10;
+    display: flex;
+    width: 902px;
+    max-width: 100%;
+    flex-direction: column;
+    margin: -437px 28px 0 0;
+  }
+  @media (max-width: 991px) {
+    .div-99 {
+      margin: -200px 10px 0 0;
+    }
+  }
+  .div-100 {
+    border-bottom: 1px solid #d4d5d9;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding: 1px 80px 25px 0;
+  }
+  @media (max-width: 991px) {
+    .div-100 {
+      max-width: 100%;
+      padding-right: 20px;
+    }
+  }
+  .div-101 {
+    display: flex;
+    gap: 9px;
+    font-size: 16px;
+    color: #282c3f;
+    font-weight: 700;
+    white-space: nowrap;
+    text-transform: uppercase;
+  }
+  @media (max-width: 991px) {
+    .div-101 {
+      white-space: initial;
+    }
+  }
+  .div-102 {
+    font-family: Assistant, sans-serif;
+    flex-grow: 1;
+    margin: auto 0;
+  }
+  @media (max-width: 991px) {
+    .div-102 {
+      white-space: initial;
+    }
+  }
+  .img-16 {
+    aspect-ratio: 0.95;
+    object-fit: auto;
+    object-position: center;
+    width: 21px;
+  }
+  .div-103 {
+    margin-top: 17px;
+    width: 578px;
+    max-width: 100%;
+  }
+  .div-104 {
+    gap: 20px;
+    display: flex;
+  }
+  @media (max-width: 991px) {
+    .div-104 {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0px;
+    }
+  }
+  .div-105 {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    font-weight: 400;
+  }
+  @media (max-width: 991px) {
+    .div-105 {
+      margin-top: 26px;
+    }
+  }
+  .div-106 {
+    color: #282c3f;
+    font: 16px/22px Assistant, sans-serif;
+  }
+  .div-107 {
+    color: #282c3f;
+    text-transform: capitalize;
+    margin-top: 23px;
+    font: 700 16px Assistant, sans-serif;
+  }
+  .div-108 {
+    color: #282c3f;
+    margin-top: 14px;
+    white-space: nowrap;
+    font: 16px/140% Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-108 {
+      white-space: initial;
+    }
+  }
+  .div-109 {
+    color: #282c3f;
+    text-transform: capitalize;
+    margin-top: 20px;
+    font: 700 16px Assistant, sans-serif;
+  }
+  .div-110 {
+    color: #282c3f;
+    margin-top: 15px;
+    font: 16px/22px Assistant, sans-serif;
+  }
+  .div-111 {
+    color: #282c3f;
+    text-transform: capitalize;
+    margin-top: 23px;
+    font: 700 16px Assistant, sans-serif;
+  }
+  .div-112 {
+    border-bottom: 1px solid #eaeaec;
+    display: flex;
+    margin-top: 14px;
+    flex-direction: column;
+    white-space: nowrap;
+    padding: 1px 0 12px;
+  }
+  @media (max-width: 991px) {
+    .div-112 {
+      white-space: initial;
+    }
+  }
+  .div-113 {
+    color: #7e818c;
+    font: 12px/100% Assistant, sans-serif;
+  }
+  .div-114 {
+    color: #282c3f;
+    margin-top: 10px;
+    font: 16px/120% Assistant, sans-serif;
+  }
+  .column-4 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 50%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-4 {
+      width: 100%;
+    }
+  }
+  .div-115 {
+    border-bottom: 1px solid #eaeaec;
+    display: flex;
+    margin-top: 322px;
+    flex-grow: 1;
+    flex-direction: column;
+    font-weight: 400;
+    white-space: nowrap;
+    padding: 1px 0 12px;
+  }
+  @media (max-width: 991px) {
+    .div-115 {
+      margin-top: 40px;
+      white-space: initial;
+    }
+  }
+  .div-116 {
+    color: #7e818c;
+    font: 12px/100% Assistant, sans-serif;
+  }
+  .div-117 {
+    color: #282c3f;
+    margin-top: 8px;
+    font: 16px/120% Assistant, sans-serif;
+  }
+  .div-118 {
+    margin-top: 12px;
+    width: 578px;
+    max-width: 100%;
+  }
+  .div-119 {
+    gap: 20px;
+    display: flex;
+  }
+  @media (max-width: 991px) {
+    .div-119 {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0px;
+    }
+  }
+  .div-120 {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    font-weight: 400;
+  }
+  @media (max-width: 991px) {
+    .div-120 {
+      margin-top: 40px;
+    }
+  }
+  .div-121 {
+    border-bottom: 1px solid #eaeaec;
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+    padding: 1px 0 15px;
+  }
+  @media (max-width: 991px) {
+    .div-121 {
+      white-space: initial;
+    }
+  }
+  .div-122 {
+    color: #7e818c;
+    font: 12px/100% Assistant, sans-serif;
+  }
+  .div-123 {
+    color: #282c3f;
+    margin-top: 9px;
+    font: 16px/120% Assistant, sans-serif;
+  }
+  .div-124 {
+    border-bottom: 1px solid #eaeaec;
+    display: flex;
+    margin-top: 12px;
+    flex-direction: column;
+    white-space: nowrap;
+    padding: 2px 0 15px;
+  }
+  @media (max-width: 991px) {
+    .div-124 {
+      white-space: initial;
+    }
+  }
+  .div-125 {
+    color: #7e818c;
+    font: 12px/100% Assistant, sans-serif;
+  }
+  .div-126 {
+    color: #282c3f;
+    margin-top: 8px;
+    font: 16px/120% Assistant, sans-serif;
+  }
+  .div-127 {
+    border-bottom: 1px solid #eaeaec;
+    display: flex;
+    margin-top: 12px;
+    flex-direction: column;
+    padding: 2px 0 12px;
+  }
+  .div-128 {
+    color: #7e818c;
+    font: 12px/100% Assistant, sans-serif;
+  }
+  .div-129 {
+    color: #282c3f;
+    margin-top: 8px;
+    font: 16px/120% Assistant, sans-serif;
+  }
+  .div-130 {
+    color: #ff3f6c;
+    margin-top: 21px;
+    font: 700 14px Assistant, sans-serif;
+  }
+  .column-5 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 50%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-5 {
+      width: 100%;
+    }
+  }
+  .div-131 {
+    display: flex;
+    flex-direction: column;
+    font-weight: 400;
+  }
+  @media (max-width: 991px) {
+    .div-131 {
+      margin-top: 40px;
+    }
+  }
+  .div-132 {
+    border-bottom: 1px solid #eaeaec;
+    display: flex;
+    flex-direction: column;
+    padding: 1px 0 15px;
+  }
+  .div-133 {
+    color: #7e818c;
+    font: 12px/100% Assistant, sans-serif;
+  }
+  .div-134 {
+    color: #282c3f;
+    margin-top: 8px;
+    font: 16px/120% Assistant, sans-serif;
+  }
+  .div-135 {
+    border-bottom: 1px solid #eaeaec;
+    display: flex;
+    margin-top: 12px;
+    flex-direction: column;
+    padding: 1px 0 12px;
+  }
+  .div-136 {
+    color: #7e818c;
+    font: 12px/100% Assistant, sans-serif;
+  }
+  .div-137 {
+    color: #282c3f;
+    margin-top: 8px;
+    font: 16px/120% Assistant, sans-serif;
+  }
+  .div-138 {
+    border-bottom: 1px solid #eaeaec;
+    display: flex;
+    margin-top: 12px;
+    flex-direction: column;
+    white-space: nowrap;
+    padding: 2px 0 11px;
+  }
+  @media (max-width: 991px) {
+    .div-138 {
+      white-space: initial;
+    }
+  }
+  .div-139 {
+    color: #7e818c;
+    font: 12px/100% Assistant, sans-serif;
+  }
+  .div-140 {
+    color: #282c3f;
+    margin-top: 11px;
+    font: 16px/120% Assistant, sans-serif;
+  }
+  .div-141 {
+    color: #282c3f;
+    margin-top: 925px;
+    font: 400 16px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-141 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-142 {
+    color: #ff3e6c;
+    margin-top: 24px;
+    font: 400 16px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-142 {
+      max-width: 100%;
+    }
+  }
+  .div-143 {
+    color: #282c3f;
+    margin-top: 21px;
+    font: 700 14px Assistant, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-143 {
+      max-width: 100%;
+    }
+  }
+</style>

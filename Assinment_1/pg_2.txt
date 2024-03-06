@@ -1,0 +1,1200 @@
+<div class="div">
+  <div class="div-2">
+    <div class="div-3">
+      <div class="div-4">
+        <img
+          loading="lazy"
+          srcset="..."
+          class="img"
+        />
+        <div class="div-5">
+          <div class="div-6">
+            <div class="div-7">Search for products, brands and more</div>
+            <img
+              loading="lazy"
+              src="https://cdn.builder.io/api/v1/image/assets/TEMP/26a2a15657ac61b07d34c4fbec28f0cd05b58bfcdce2c57af1210a85b140ee23?"
+              class="img-2"
+            />
+          </div>
+        </div>
+      </div>
+      <div class="div-8">
+        <div class="div-9">Login</div>
+        <div class="div-10">Become a Seller</div>
+      </div>
+      <div class="div-11">
+        <div class="div-12">More</div>
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/de05d94b3e881ce25b2ef1f699e1800be524c98c200895ee109a54a88a84722b?"
+          class="img-3"
+        />
+      </div>
+      <div class="div-13">
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/a39ed5cc9fea7e1684190b048298d359f937d1f0488c147ab217b3e99e4a04ab?"
+          class="img-4"
+        />
+        <div class="div-14">Cart</div>
+      </div>
+    </div>
+  </div>
+  <div class="div-15">
+    <div class="div-16">
+      <div class="div-17">
+        <div class="div-18">Electronics</div>
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/bb771e10e7bb8d1f2d178cb26a8d326c2aecafbe2afb1e734770fb0fc1ecf672?"
+          class="img-5"
+        />
+        <div class="div-19">TVs & Appliances</div>
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/d5d007f13fd29588a4f94ccfeb71d672fe798291c3572738531d04e4cd5ca255?"
+          class="img-6"
+        />
+        <div class="div-20">Men</div>
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/65a2024aebdbb4ee727c8ba20268b33580b4e3ed4711fa2ccaab41f0cbe10451?"
+          class="img-7"
+        />
+      </div>
+      <div class="div-21">
+        <div class="div-22">Women</div>
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/a7192fd723df904b122ec4a738285eb6e99f808c90f0a1f079dd36924aff33c1?"
+          class="img-8"
+        />
+        <div class="div-23">Baby & Kids</div>
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/8b6785ff2c7c009997d2052cc27f71f38b9215099a7a7cacccc92f58747b8e9c?"
+          class="img-9"
+        />
+        <div class="div-24">Home & Furniture</div>
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/b92b10952f44d268a43aeeb6e6dcb2b759288b1d353fe4317494e9a98c7cced2?"
+          class="img-10"
+        />
+        <div class="div-25">Sports, Books & More</div>
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/533965712cabb286ec864d7a80290730bf817b2b976113510f70844a5e6089e5?"
+          class="img-11"
+        />
+        <div class="div-26">Flights</div>
+        <div class="div-27">Offer Zone</div>
+      </div>
+    </div>
+  </div>
+  <div class="div-28">
+    <div class="div-29">
+      <div class="column">
+        <div class="div-30">
+          <img
+            loading="lazy"
+            srcset="..."
+            class="img-12"
+          />
+          <div class="div-31">Login</div>
+          <div class="div-32">
+            Get access to your Orders,
+            <br />
+            Wishlist and Recommendations
+          </div>
+        </div>
+      </div>
+      <div class="column-2">
+        <div class="div-33">
+          <div class="div-34">
+            <div class="div-35">
+              <div class="div-36">Enter Email/Mobile number</div>
+              <div class="div-37"></div>
+            </div>
+            <div class="div-38"></div>
+          </div>
+          <div class="div-39">
+            By continuing, you agree to Flipkart's
+            <span style="color: rgba(40, 116, 240, 1)">Terms of Use</span>
+            and
+            <span style="color: rgba(40, 116, 240, 1)">Privacy Policy</span>
+            .
+          </div>
+          <div class="div-40">Request OTP</div>
+          <div class="div-41">New to Flipkart? Create an account</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="div-42">
+    <div class="div-43">
+      <div class="div-44">
+        <div class="div-45">ABOUT</div>
+        <div class="div-46">
+          Contact Us
+          <br />
+          About Us
+          <br />
+          Careers
+          <br />
+          Flipkart Stories
+          <br />
+          Press
+          <br />
+          Corporate Information
+        </div>
+      </div>
+      <div class="div-47">
+        <div class="div-48">GROUP COMPANIES</div>
+        <div class="div-49">
+          Myntra
+          <br />
+          Flipkart Wholesale
+          <br />
+          Cleartrip
+          <br />
+          Shopsy
+        </div>
+      </div>
+      <div class="div-50">
+        <div class="div-51">HELP</div>
+        <div class="div-52">
+          Payments
+          <br />
+          Shipping
+          <br />
+          Cancellation & Returns
+          <br />
+          FAQ
+          <br />
+          Report Infringement
+        </div>
+      </div>
+      <div class="div-53">
+        <div class="div-54">CONSUMER POLICY</div>
+        <div class="div-55">
+          Cancellation & Returns
+          <br />
+          Terms Of Use
+          <br />
+          Security
+          <br />
+          Privacy
+          <br />
+          Sitemap
+          <br />
+          Grievance Redressal
+          <br />
+          EPR Compliance
+        </div>
+      </div>
+      <div class="div-56">
+        <div class="div-57">Mail Us:</div>
+        <div class="div-58">
+          <div class="div-59">
+            <div class="div-60">
+              Flipkart Internet Private Limited,
+              <br />
+              Buildings Alyssa, Begonia &
+              <br />
+              Clove Embassy Tech Village,
+              <br />
+              Outer Ring Road, Devarabeesanahalli Village,
+              <br />
+              Bengaluru, 560103,
+              <br />
+              Karnataka, India
+            </div>
+          </div>
+        </div>
+        <div class="div-61">Social</div>
+        <div class="div-62">
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/api/v1/image/assets/TEMP/93195a0f663bc90ea66c0e95bab19e1ec89e7774669535a0eee14572a15a2231?"
+            class="img-13"
+          />
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/api/v1/image/assets/TEMP/d800a7aebf8b3e3491ebaa57f786cc3ec563c342b4679d3edbf8e9c608a6604d?"
+            class="img-14"
+          />
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/api/v1/image/assets/TEMP/df575c4900c381f5823938fcd98c8ca21dd5b6d63c813bf10673110afb2042f8?"
+            class="img-15"
+          />
+        </div>
+      </div>
+      <div class="div-63">
+        <div class="div-64">Registered Office Address:</div>
+        <div class="div-65">
+          <div class="div-66">
+            <div class="div-67">
+              Flipkart Internet Private Limited,
+              <br />
+              Buildings Alyssa, Begonia &
+              <br />
+              Clove Embassy Tech Village,
+              <br />
+              Outer Ring Road, Devarabeesanahalli Village,
+              <br />
+              Bengaluru, 560103,
+              <br />
+              Karnataka, India
+              <br />
+              CIN : U51109KA2012PTC066107
+              <br />
+              Telephone:
+              <span style="font-weight: 500; color: rgba(40, 116, 240, 1)">
+                044-45614700
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="div-68">
+      <div class="div-69">
+        <div class="div-70">
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/api/v1/image/assets/TEMP/748fe7a91e1ceebc010bd71aad1e40e49dc3c55856682eef54a3bce5f724e2cb?"
+            class="img-16"
+          />
+          <div class="div-71">Become a Seller</div>
+        </div>
+        <div class="div-72">
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/api/v1/image/assets/TEMP/86f1a5f5124c1891f042c1c61d5fe2d3a2748bf6e19ba02bc4848ebdf802755d?"
+            class="img-17"
+          />
+          <div class="div-73">Advertise</div>
+        </div>
+        <div class="div-74">
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/api/v1/image/assets/TEMP/2abf976c6c40316616340930af883d48738bcb871ae19cc62a42df3b6f3e5b90?"
+            class="img-18"
+          />
+          <div class="div-75">Gift Cards</div>
+        </div>
+        <div class="div-76">
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/api/v1/image/assets/TEMP/a0b5b92e35cfeefbf3e241e09652c074a563600a3a73821fb2fa1da1a2ab8949?"
+            class="img-19"
+          />
+          <div class="div-77">Help Center</div>
+        </div>
+        <div class="div-78">
+          <div class="div-79">© 2007-2024 Flipkart.com</div>
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/api/v1/image/assets/TEMP/f17994630f7195a59f93e8dab1929dff0594793d63dc1e1ec170d361046cf2f3?"
+            class="img-20"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<style>
+  .div {
+    background-color: #f1f3f6;
+    display: flex;
+    flex-direction: column;
+  }
+  .div-2 {
+    justify-content: center;
+    align-items: center;
+    background-color: #2874f0;
+    display: flex;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 0 60px;
+  }
+  @media (max-width: 991px) {
+    .div-2 {
+      max-width: 100%;
+      padding: 0 20px;
+    }
+  }
+  .div-3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 0 1px;
+  }
+  @media (max-width: 991px) {
+    .div-3 {
+      max-width: 100%;
+      flex-wrap: wrap;
+    }
+  }
+  .div-4 {
+    align-self: stretch;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    font-size: 14px;
+    color: #757575;
+    font-weight: 400;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-4 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      white-space: initial;
+    }
+  }
+  .img {
+    aspect-ratio: 2.44;
+    object-fit: auto;
+    object-position: center;
+    width: 137px;
+    max-width: 100%;
+  }
+  .div-5 {
+    justify-content: center;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.23);
+    background-color: rgba(255, 255, 255, 0);
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 0%;
+    flex-direction: column;
+    margin: auto 0;
+  }
+  @media (max-width: 991px) {
+    .div-5 {
+      max-width: 100%;
+      white-space: initial;
+    }
+  }
+  .div-6 {
+    justify-content: space-between;
+    border-radius: 2px;
+    background-color: #fff;
+    display: flex;
+    gap: 0px;
+  }
+  @media (max-width: 991px) {
+    .div-6 {
+      max-width: 100%;
+      flex-wrap: wrap;
+      white-space: initial;
+    }
+  }
+  .div-7 {
+    font-family: Roboto, sans-serif;
+    justify-content: center;
+    align-items: start;
+    border-radius: 2px 0px 0px 2px;
+    background-color: #fff;
+    flex-grow: 1;
+    padding: 11px 60px 11px 16px;
+  }
+  @media (max-width: 991px) {
+    .div-7 {
+      white-space: initial;
+      max-width: 100%;
+      padding-right: 20px;
+    }
+  }
+  .img-2 {
+    aspect-ratio: 1.16;
+    object-fit: auto;
+    object-position: center;
+    width: 42px;
+  }
+  .div-8 {
+    align-self: stretch;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    letter-spacing: 0.1px;
+    margin: auto 0;
+  }
+  .div-9 {
+    font-family: Roboto, sans-serif;
+    justify-content: center;
+    border-radius: 2px;
+    border: 1px solid #dbdbdb;
+    background-color: #fff;
+    flex-grow: 1;
+    color: #2874f0;
+    white-space: nowrap;
+    padding: 8px 41px;
+  }
+  @media (max-width: 991px) {
+    .div-9 {
+      white-space: initial;
+      padding: 0 20px;
+    }
+  }
+  .div-10 {
+    color: #fff;
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+    margin: auto 0;
+  }
+  .div-11 {
+    align-self: stretch;
+    display: flex;
+    gap: 7px;
+    color: #fff;
+    white-space: nowrap;
+    letter-spacing: 0.1px;
+    margin: auto 0;
+  }
+  @media (max-width: 991px) {
+    .div-11 {
+      white-space: initial;
+    }
+  }
+  .div-12 {
+    font-family: Roboto, sans-serif;
+  }
+  .img-3 {
+    aspect-ratio: 1.59;
+    object-fit: auto;
+    object-position: center;
+    width: 8px;
+    align-self: start;
+    margin-top: 5px;
+  }
+  .div-13 {
+    align-self: stretch;
+    display: flex;
+    gap: 8px;
+    color: #fff;
+    white-space: nowrap;
+    letter-spacing: 0.1px;
+    margin: auto 0;
+  }
+  @media (max-width: 991px) {
+    .div-13 {
+      white-space: initial;
+    }
+  }
+  .img-4 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+  }
+  .div-14 {
+    font-family: Roboto, sans-serif;
+  }
+  .div-15 {
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.16);
+    background-color: #fff;
+    display: flex;
+    width: 100%;
+    font-size: 14px;
+    color: #000;
+    font-weight: 500;
+    line-height: 140%;
+    padding: 14px 60px;
+  }
+  @media (max-width: 991px) {
+    .div-15 {
+      max-width: 100%;
+      padding: 0 20px;
+    }
+  }
+  .div-16 {
+    display: flex;
+    width: 1194px;
+    max-width: 100%;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-16 {
+      flex-wrap: wrap;
+    }
+  }
+  .div-17 {
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+  }
+  .div-18 {
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+  }
+  .img-5 {
+    aspect-ratio: 2;
+    object-fit: auto;
+    object-position: center;
+    width: 8px;
+    margin: auto 0;
+  }
+  .div-19 {
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+  }
+  .img-6 {
+    aspect-ratio: 2;
+    object-fit: auto;
+    object-position: center;
+    width: 8px;
+    margin: auto 0;
+  }
+  .div-20 {
+    font-family: Roboto, sans-serif;
+  }
+  .img-7 {
+    aspect-ratio: 2;
+    object-fit: auto;
+    object-position: center;
+    width: 8px;
+    margin: auto 0;
+  }
+  .div-21 {
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+  }
+  @media (max-width: 991px) {
+    .div-21 {
+      max-width: 100%;
+      flex-wrap: wrap;
+    }
+  }
+  .div-22 {
+    font-family: Roboto, sans-serif;
+  }
+  .img-8 {
+    aspect-ratio: 2;
+    object-fit: auto;
+    object-position: center;
+    width: 8px;
+    margin: auto 0;
+  }
+  .div-23 {
+    font-family: Roboto, sans-serif;
+  }
+  .img-9 {
+    aspect-ratio: 2;
+    object-fit: auto;
+    object-position: center;
+    width: 8px;
+    margin: auto 0;
+  }
+  .div-24 {
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+  }
+  .img-10 {
+    aspect-ratio: 2;
+    object-fit: auto;
+    object-position: center;
+    width: 8px;
+    margin: auto 0;
+  }
+  .div-25 {
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+  }
+  .img-11 {
+    aspect-ratio: 2;
+    object-fit: auto;
+    object-position: center;
+    width: 8px;
+    margin: auto 0;
+  }
+  .div-26 {
+    font-family: Roboto, sans-serif;
+  }
+  .div-27 {
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-27 {
+      white-space: initial;
+    }
+  }
+  .div-28 {
+    justify-content: center;
+    border-radius: 2px;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.08);
+    background-color: #fff;
+    align-self: center;
+    margin-top: 16px;
+    width: 840px;
+    max-width: 100%;
+  }
+  .div-29 {
+    gap: 20px;
+    display: flex;
+  }
+  @media (max-width: 991px) {
+    .div-29 {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0px;
+    }
+  }
+  .column {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 40%;
+    margin-left: 0px;
+  }
+  @media (max-width: 991px) {
+    .column {
+      width: 100%;
+    }
+  }
+  .div-30 {
+    disply: flex;
+    flex-direction: column;
+    box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    aspect-ratio: 0.64;
+    flex-grow: 1;
+    padding: 49px 33px;
+  }
+  @media (max-width: 991px) {
+    .div-30 {
+      padding: 0 20px;
+    }
+  }
+  .img-12 {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .div-31 {
+    position: relative;
+    color: #fff;
+    font: 500 28px/140% Roboto, sans-serif;
+  }
+  .div-32 {
+    position: relative;
+    color: #dbdbdb;
+    margin-top: 27px;
+    font: 400 18px/27px Roboto, sans-serif;
+  }
+  .column-2 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 60%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-2 {
+      width: 100%;
+    }
+  }
+  .div-33 {
+    background-color: #fff;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    color: #2874f0;
+    font-weight: 400;
+    width: 100%;
+    padding: 43px 35px;
+  }
+  @media (max-width: 991px) {
+    .div-33 {
+      max-width: 100%;
+      padding: 0 20px;
+    }
+  }
+  .div-34 {
+    border-bottom: 1px solid #e0e0e0;
+    background-color: #fff;
+    display: flex;
+    margin-top: 6px;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0px;
+    font-size: 13px;
+    color: #878787;
+    line-height: 175%;
+    padding: 1px 0;
+  }
+  @media (max-width: 991px) {
+    .div-34 {
+      max-width: 100%;
+      flex-wrap: wrap;
+    }
+  }
+  .div-35 {
+    align-self: start;
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 0%;
+    flex-direction: column;
+  }
+  .div-36 {
+    font-family: Roboto, sans-serif;
+  }
+  .div-37 {
+    background-color: #2874f0;
+    margin-top: 26px;
+    height: 1px;
+  }
+  .div-38 {
+    background-color: #2874f0;
+    align-self: end;
+    margin-top: 36px;
+    width: 217px;
+    height: 1px;
+  }
+  .div-39 {
+    margin-top: 37px;
+    font: 12px/16.8px Roboto, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-39 {
+      max-width: 100%;
+    }
+  }
+  .div-40 {
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+    background-color: #fb641b;
+    margin-top: 18px;
+    color: #fff;
+    white-space: nowrap;
+    text-align: center;
+    padding: 17px 60px;
+    font: 500 15px Roboto, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-40 {
+      white-space: initial;
+      max-width: 100%;
+      padding: 0 20px;
+    }
+  }
+  .div-41 {
+    text-align: center;
+    align-self: center;
+    margin-top: 271px;
+    white-space: nowrap;
+    font: 500 14px/140% Roboto, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-41 {
+      margin-top: 40px;
+      white-space: initial;
+    }
+  }
+  .div-42 {
+    border-top: 1px solid #ddd;
+    background-color: #172337;
+    display: flex;
+    margin-top: 25px;
+    width: 100%;
+    padding-top: 41px;
+    flex-direction: column;
+  }
+  @media (max-width: 991px) {
+    .div-42 {
+      max-width: 100%;
+    }
+  }
+  .div-43 {
+    align-self: center;
+    display: flex;
+    width: 100%;
+    max-width: 1728px;
+    align-items: start;
+    justify-content: space-between;
+    gap: 14px;
+    padding: 0 20px;
+  }
+  @media (max-width: 991px) {
+    .div-43 {
+      max-width: 100%;
+      flex-wrap: wrap;
+    }
+  }
+  .div-44 {
+    display: flex;
+    margin-top: 4px;
+    flex-basis: 0%;
+    flex-direction: column;
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .div-45 {
+    color: #878787;
+    font-family: Roboto, sans-serif;
+    line-height: 140%;
+  }
+  .div-46 {
+    color: #fff;
+    font-family: Roboto, sans-serif;
+    line-height: 24px;
+    margin-top: 19px;
+  }
+  .div-47 {
+    display: flex;
+    margin-top: 4px;
+    flex-basis: 0%;
+    flex-direction: column;
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .div-48 {
+    color: #878787;
+    font-family: Roboto, sans-serif;
+    line-height: 140%;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-48 {
+      white-space: initial;
+    }
+  }
+  .div-49 {
+    color: #fff;
+    font-family: Roboto, sans-serif;
+    line-height: 24px;
+    margin-top: 19px;
+  }
+  .div-50 {
+    display: flex;
+    margin-top: 4px;
+    flex-basis: 0%;
+    flex-direction: column;
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .div-51 {
+    color: #878787;
+    font-family: Roboto, sans-serif;
+    line-height: 140%;
+  }
+  .div-52 {
+    color: #fff;
+    font-family: Roboto, sans-serif;
+    line-height: 24px;
+    margin-top: 19px;
+  }
+  .div-53 {
+    display: flex;
+    margin-top: 4px;
+    flex-basis: 0%;
+    flex-direction: column;
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .div-54 {
+    color: #878787;
+    font-family: Roboto, sans-serif;
+    line-height: 140%;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-54 {
+      white-space: initial;
+    }
+  }
+  .div-55 {
+    color: #fff;
+    font-family: Roboto, sans-serif;
+    line-height: 24px;
+    margin-top: 19px;
+  }
+  .div-56 {
+    border-left: 1px solid #454d5e;
+    align-self: stretch;
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 0%;
+    flex-direction: column;
+    padding: 4px 26px;
+  }
+  @media (max-width: 991px) {
+    .div-56 {
+      padding: 0 20px;
+    }
+  }
+  .div-57 {
+    color: #878787;
+    font: 400 12px/140% Roboto, sans-serif;
+  }
+  .div-58 {
+    justify-content: center;
+    background-color: #172337;
+    display: flex;
+    margin-top: 12px;
+    flex-direction: column;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 400;
+    line-height: 18px;
+  }
+  .div-59 {
+    justify-content: center;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+  }
+  .div-60 {
+    font-family: Roboto, sans-serif;
+    justify-content: center;
+    background-color: #172337;
+    padding: 4px 0;
+  }
+  .div-61 {
+    color: #878787;
+    margin-top: 20px;
+    font: 400 12px/140% Roboto, sans-serif;
+  }
+  .div-62 {
+    display: flex;
+    margin-top: 9px;
+    padding-right: 80px;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-62 {
+      padding-right: 20px;
+    }
+  }
+  .img-13 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 24px;
+  }
+  .img-14 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 24px;
+  }
+  .img-15 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 24px;
+  }
+  .div-63 {
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 0%;
+    flex-direction: column;
+    font-size: 12px;
+    font-weight: 400;
+  }
+  .div-64 {
+    color: #878787;
+    font-family: Roboto, sans-serif;
+    line-height: 140%;
+  }
+  .div-65 {
+    justify-content: center;
+    background-color: #172337;
+    display: flex;
+    margin-top: 10px;
+    flex-direction: column;
+    color: #2874f0;
+    line-height: 18px;
+  }
+  .div-66 {
+    justify-content: center;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+  }
+  .div-67 {
+    font-family: Roboto, sans-serif;
+    background-color: #172337;
+    justify-content: center;
+    padding: 4px 38px 4px 0;
+  }
+  @media (max-width: 991px) {
+    .div-67 {
+      padding-right: 20px;
+    }
+  }
+  .div-68 {
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid #454d5e;
+    display: flex;
+    margin-top: 40px;
+    width: 100%;
+    font-size: 14px;
+    color: #fff;
+    font-weight: 400;
+    line-height: 140%;
+    padding: 27px 60px;
+  }
+  @media (max-width: 991px) {
+    .div-68 {
+      max-width: 100%;
+      padding: 0 20px;
+    }
+  }
+  .div-69 {
+    display: flex;
+    width: 100%;
+    max-width: 1634px;
+    align-items: start;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-69 {
+      max-width: 100%;
+      flex-wrap: wrap;
+    }
+  }
+  .div-70 {
+    display: flex;
+    gap: 8px;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-70 {
+      white-space: initial;
+    }
+  }
+  .img-16 {
+    aspect-ratio: 1.06;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+  }
+  .div-71 {
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+  }
+  @media (max-width: 991px) {
+    .div-71 {
+      white-space: initial;
+    }
+  }
+  .div-72 {
+    display: flex;
+    gap: 8px;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-72 {
+      white-space: initial;
+    }
+  }
+  .img-17 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 15px;
+  }
+  .div-73 {
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+  }
+  .div-74 {
+    display: flex;
+    gap: 8px;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-74 {
+      white-space: initial;
+    }
+  }
+  .img-18 {
+    aspect-ratio: 1.06;
+    object-fit: auto;
+    object-position: center;
+    width: 18px;
+  }
+  .div-75 {
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+  }
+  @media (max-width: 991px) {
+    .div-75 {
+      white-space: initial;
+    }
+  }
+  .div-76 {
+    display: flex;
+    gap: 8px;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-76 {
+      white-space: initial;
+    }
+  }
+  .img-19 {
+    aspect-ratio: 1;
+    object-fit: auto;
+    object-position: center;
+    width: 15px;
+    align-self: start;
+  }
+  .div-77 {
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+  }
+  @media (max-width: 991px) {
+    .div-77 {
+      white-space: initial;
+    }
+  }
+  .div-78 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-78 {
+      max-width: 100%;
+      flex-wrap: wrap;
+    }
+  }
+  .div-79 {
+    font-family: Roboto, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+    margin: auto 0;
+  }
+  .img-20 {
+    aspect-ratio: 20;
+    object-fit: auto;
+    object-position: center;
+    width: 377px;
+  }
+</style>
